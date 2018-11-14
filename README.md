@@ -12,7 +12,7 @@ Learning javascript one function at a time.
 
 ## Important topics to pick up for any javascript interview:
 
-  1.  ES6 Features
+  1.  ES6 Features 
         a) Arrow
         ...
   2.  Scopes
