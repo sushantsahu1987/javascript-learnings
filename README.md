@@ -27,5 +27,5 @@ Learning javascript one function at a time.
   11. Memory leaks
   12. Currying
   13. Generator functions
-  14. Async Await
+  14. Async Await - Serial / Parallel
  
