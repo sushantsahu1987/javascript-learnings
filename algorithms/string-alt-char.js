@@ -5,13 +5,12 @@
 // const str = "BABABA"; //0
 const str = "AAABBB"; //4
 let arr = str.split("");
-console.log(arr);
+// console.log(arr);
 
 // This solution will not work if string is huge !
-function alternating() {
+function nsolution() {
     let c = arr.shift();
     let count = 0;
-
     while (arr.length > 0) {
         let temp = arr.shift();
         if (c === temp) {
@@ -20,9 +19,9 @@ function alternating() {
         c = temp;
         console.log(temp);
     }
-
-    console.log(count);
     return count;
 }
 
-let count  = alternating(); 
+let count  = nsolution();
+console.log(count);
+
