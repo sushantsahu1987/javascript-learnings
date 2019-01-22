@@ -20,7 +20,7 @@ Learning javascript one function at a time.
   
   3.  var vs const vs let
   
-  4.  Closures
+  4.  Closures  
       http://javascriptissexy.com/understand-javascript-closures-with-ease/
       
   5.  Immediately-invoked function expression (IIFE or Iffy)
