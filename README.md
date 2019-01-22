@@ -15,17 +15,31 @@ Learning javascript one function at a time.
   1.  ES6 Features 
       -   Arrow
       -   ...
+      
   2.  Scopes
+  
   3.  var vs const vs let
+  
   4.  Closures
+      http://javascriptissexy.com/understand-javascript-closures-with-ease/
+      
   5.  Immediately-invoked function expression (IIFE or Iffy)
+  
   6.  Monads
+  
   7.  Promises
+  
   8.  Proto-Typal Inheritance
+  
   9.  Object creation
+  
   10. Garbage collection
+  
   11. Memory leaks
+  
   12. Currying
+  
   13. Generator functions
+  
   14. Async Await - Serial / Parallel
  
